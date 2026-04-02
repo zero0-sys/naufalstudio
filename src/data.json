@@ -33,2013 +33,53 @@
   "gallery": [
     {
       "id": 1,
-      "title": "Art",
+      "title": "Top 1",
       "category": "Image / Art",
-      "subcategory": "Traditional Art",
+      "subcategory": "Graphic Design",
       "type": "image",
-      "url": "/galery/Art/art.png",
-      "description": "Karya di kategori Traditional Art."
+      "url": "/galery/Design/Top 1.jpg",
+      "description": "Karya di kategori Graphic Design."
     },
     {
       "id": 2,
-      "title": "Art1",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art1.png",
-      "description": "Karya di kategori Traditional Art."
+      "title": "Top 2",
+      "category": "Video",
+      "subcategory": "Anime",
+      "type": "video",
+      "url": "/galery/Video/anime/Top 2.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Anime."
     },
     {
       "id": 3,
-      "title": "Art10",
+      "title": "Top 3",
       "category": "Image / Art",
-      "subcategory": "Traditional Art",
+      "subcategory": "Photo Manipulation",
       "type": "image",
-      "url": "/galery/Art/art10.png",
-      "description": "Karya di kategori Traditional Art."
+      "url": "/galery/Manipulation/Top 3.png",
+      "description": "Karya di kategori Photo Manipulation."
     },
     {
       "id": 4,
-      "title": "Art11",
+      "title": "Top 4",
       "category": "Image / Art",
       "subcategory": "Traditional Art",
       "type": "image",
-      "url": "/galery/Art/art11.png",
+      "url": "/galery/Art/Top 4.jpg",
       "description": "Karya di kategori Traditional Art."
     },
     {
       "id": 5,
-      "title": "Art12",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art12.png",
-      "description": "Karya di kategori Traditional Art."
+      "title": "Top 5",
+      "category": "Video",
+      "subcategory": "Anime",
+      "type": "video",
+      "url": "/galery/Video/anime/Top 5.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Anime."
     },
     {
       "id": 6,
-      "title": "Art13",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art13.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 7,
-      "title": "Art14",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art14.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 8,
-      "title": "Art15",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art15.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 9,
-      "title": "Art16",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art16.jpg",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 10,
-      "title": "Art17",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art17.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 11,
-      "title": "Art18",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art18.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 12,
-      "title": "Art19",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art19.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 13,
-      "title": "Art2",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art2.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 14,
-      "title": "Art20",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art20.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 15,
-      "title": "Art21",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art21.jpg",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 16,
-      "title": "Art22",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art22.jpg",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 17,
-      "title": "Art23",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art23.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 18,
-      "title": "Art24",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art24.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 19,
-      "title": "Art25",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art25.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 20,
-      "title": "Art26",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art26.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 21,
-      "title": "Art27",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art27.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 22,
-      "title": "Art28",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art28.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 23,
-      "title": "Art29",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art29.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 24,
-      "title": "Art3",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art3.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 25,
-      "title": "Art30",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art30.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 26,
-      "title": "Art31",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art31.jpg",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 27,
-      "title": "Art32",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art32.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 28,
-      "title": "Art33",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art33.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 29,
-      "title": "Art34",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art34.png",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 30,
-      "title": "Art4",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art4.jpg",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 31,
-      "title": "Art5",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art5.jpg",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 32,
-      "title": "Art6",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art6.jpg",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 33,
-      "title": "Art7",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art7.jpg",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 34,
-      "title": "Art8",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art8.jpg",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 35,
-      "title": "Art9",
-      "category": "Image / Art",
-      "subcategory": "Traditional Art",
-      "type": "image",
-      "url": "/galery/Art/art9.jpg",
-      "description": "Karya di kategori Traditional Art."
-    },
-    {
-      "id": 36,
-      "title": "Design",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 37,
-      "title": "Design1",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design1.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 38,
-      "title": "Design10",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design10.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 39,
-      "title": "Design11",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design11.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 40,
-      "title": "Design12",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design12.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 41,
-      "title": "Design13",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design13.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 42,
-      "title": "Design14",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design14.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 43,
-      "title": "Design15",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design15.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 44,
-      "title": "Design16",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design16.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 45,
-      "title": "Design17",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design17.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 46,
-      "title": "Design18",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design18.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 47,
-      "title": "Design2",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design2.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 48,
-      "title": "Design20",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design20.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 49,
-      "title": "Design21",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design21.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 50,
-      "title": "Design22",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design22.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 51,
-      "title": "Design23",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design23.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 52,
-      "title": "Design24",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design24.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 53,
-      "title": "Design25",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design25.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 54,
-      "title": "Design26",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design26.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 55,
-      "title": "Design27",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design27.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 56,
-      "title": "Design28",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design28.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 57,
-      "title": "Design3",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design3.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 58,
-      "title": "Design32",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design32.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 59,
-      "title": "Design33",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design33.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 60,
-      "title": "Design34",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design34.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 61,
-      "title": "Design35",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design35.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 62,
-      "title": "Design36",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design36.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 63,
-      "title": "Design37",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design37.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 64,
-      "title": "Design38",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design38.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 65,
-      "title": "Design39",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design39.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 66,
-      "title": "Design4",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design4.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 67,
-      "title": "Design40",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design40.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 68,
-      "title": "Design41",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design41.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 69,
-      "title": "Design42",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design42.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 70,
-      "title": "Design43",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design43.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 71,
-      "title": "Design44",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design44.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 72,
-      "title": "Design45",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design45.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 73,
-      "title": "Design46",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design46.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 74,
-      "title": "Design47",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design47.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 75,
-      "title": "Design48",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design48.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 76,
-      "title": "Design49",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design49.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 77,
-      "title": "Design5",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design5.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 78,
-      "title": "Design50",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design50.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 79,
-      "title": "Design6",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design6.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 80,
-      "title": "Design7",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design7.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 81,
-      "title": "Design8",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design8.png",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 82,
-      "title": "Design9",
-      "category": "Image / Art",
-      "subcategory": "Graphic Design",
-      "type": "image",
-      "url": "/galery/Design/design9.jpg",
-      "description": "Karya di kategori Graphic Design."
-    },
-    {
-      "id": 83,
-      "title": "Gfx",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 84,
-      "title": "Gfx",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 85,
-      "title": "Gfx1",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx1.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 86,
-      "title": "Gfx10",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx10.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 87,
-      "title": "Gfx11",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx11.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 88,
-      "title": "Gfx12",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx12.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 89,
-      "title": "Gfx13",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx13.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 90,
-      "title": "Gfx14",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx14.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 91,
-      "title": "Gfx15",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx15.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 92,
-      "title": "Gfx17",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx17.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 93,
-      "title": "Gfx18",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx18.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 94,
-      "title": "Gfx18",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx18.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 95,
-      "title": "Gfx19",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx19.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 96,
-      "title": "Gfx2",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx2.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 97,
-      "title": "Gfx20",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx20.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 98,
-      "title": "Gfx21",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx21.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 99,
-      "title": "Gfx22",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx22.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 100,
-      "title": "Gfx23",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx23.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 101,
-      "title": "Gfx24",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx24.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 102,
-      "title": "Gfx25",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx25.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 103,
-      "title": "Gfx26",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx26.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 104,
-      "title": "Gfx27",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx27.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 105,
-      "title": "Gfx28",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx28.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 106,
-      "title": "Gfx29",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx29.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 107,
-      "title": "Gfx3",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx3.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 108,
-      "title": "Gfx30",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx30.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 109,
-      "title": "Gfx31",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx31.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 110,
-      "title": "Gfx32",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx32.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 111,
-      "title": "Gfx4",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx4.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 112,
-      "title": "Gfx5",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx5.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 113,
-      "title": "Gfx6",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx6.png",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 114,
-      "title": "Gfx7",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx7.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 115,
-      "title": "Gfx8",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx8.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 116,
-      "title": "Gfx9",
-      "category": "Image / Art",
-      "subcategory": "GFX",
-      "type": "image",
-      "url": "/galery/GFX/gfx9.jpg",
-      "description": "Karya di kategori GFX."
-    },
-    {
-      "id": 117,
-      "title": "Comic",
-      "category": "Image / Art",
-      "subcategory": "Comic",
-      "type": "image",
-      "url": "/galery/Komik/comic.png",
-      "description": "Karya di kategori Comic."
-    },
-    {
-      "id": 118,
-      "title": "Manipulation",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 119,
-      "title": "Manipulation1",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation1.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 120,
-      "title": "Manipulation10",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation10.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 121,
-      "title": "Manipulation11",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation11.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 122,
-      "title": "Manipulation12",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation12.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 123,
-      "title": "Manipulation13",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation13.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 124,
-      "title": "Manipulation14",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation14.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 125,
-      "title": "Manipulation15",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation15.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 126,
-      "title": "Manipulation16",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation16.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 127,
-      "title": "Manipulation17",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation17.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 128,
-      "title": "Manipulation18",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation18.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 129,
-      "title": "Manipulation19",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation19.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 130,
-      "title": "Manipulation2",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation2.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 131,
-      "title": "Manipulation20",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation20.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 132,
-      "title": "Manipulation21",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation21.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 133,
-      "title": "Manipulation22",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation22.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 134,
-      "title": "Manipulation23",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation23.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 135,
-      "title": "Manipulation24",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation24.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 136,
-      "title": "Manipulation25",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation25.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 137,
-      "title": "Manipulation26",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation26.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 138,
-      "title": "Manipulation27",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation27.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 139,
-      "title": "Manipulation28",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation28.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 140,
-      "title": "Manipulation29",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation29.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 141,
-      "title": "Manipulation3",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation3.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 142,
-      "title": "Manipulation30",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation30.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 143,
-      "title": "Manipulation31",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation31.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 144,
-      "title": "Manipulation32",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation32.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 145,
-      "title": "Manipulation33",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation33.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 146,
-      "title": "Manipulation34",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation34.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 147,
-      "title": "Manipulation35",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation35.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 148,
-      "title": "Manipulation36",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation36.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 149,
-      "title": "Manipulation37",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation37.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 150,
-      "title": "Manipulation38",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation38.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 151,
-      "title": "Manipulation39",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation39.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 152,
-      "title": "Manipulation4",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation4.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 153,
-      "title": "Manipulation40",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation40.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 154,
-      "title": "Manipulation41",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation41.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 155,
-      "title": "Manipulation42",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation42.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 156,
-      "title": "Manipulation43",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation43.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 157,
-      "title": "Manipulation44",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation44.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 158,
-      "title": "Manipulation45",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation45.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 159,
-      "title": "Manipulation46",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation46.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 160,
-      "title": "Manipulation47",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation47.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 161,
-      "title": "Manipulation48",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation48.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 162,
-      "title": "Manipulation49",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation49.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 163,
-      "title": "Manipulation5",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation5.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 164,
-      "title": "Manipulation50",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation50.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 165,
-      "title": "Manipulation51",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation51.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 166,
-      "title": "Manipulation52",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation52.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 167,
-      "title": "Manipulation53",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation53.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 168,
-      "title": "Manipulation54",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation54.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 169,
-      "title": "Manipulation55",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation55.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 170,
-      "title": "Manipulation56",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation56.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 171,
-      "title": "Manipulation57",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation57.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 172,
-      "title": "Manipulation58",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation58.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 173,
-      "title": "Manipulation59",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation59.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 174,
-      "title": "Manipulation6",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation6.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 175,
-      "title": "Manipulation60",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation60.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 176,
-      "title": "Manipulation61",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation61.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 177,
-      "title": "Manipulation62",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation62.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 178,
-      "title": "Manipulation63",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation63.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 179,
-      "title": "Manipulation64",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation64.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 180,
-      "title": "Manipulation65",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation65.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 181,
-      "title": "Manipulation66",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation66.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 182,
-      "title": "Manipulation66",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation66.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 183,
-      "title": "Manipulation67",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation67.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 184,
-      "title": "Manipulation68",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation68.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 185,
-      "title": "Manipulation69",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation69.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 186,
-      "title": "Manipulation7",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation7.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 187,
-      "title": "Manipulation70",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation70.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 188,
-      "title": "Manipulation71",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation71.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 189,
-      "title": "Manipulation72",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation72.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 190,
-      "title": "Manipulation73",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation73.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 191,
-      "title": "Manipulation74",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation74.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 192,
-      "title": "Manipulation75",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation75.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 193,
-      "title": "Manipulation76",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation76.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 194,
-      "title": "Manipulation77",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation77.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 195,
-      "title": "Manipulation78",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation78.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 196,
-      "title": "Manipulation79",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation79.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 197,
-      "title": "Manipulation8",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation8.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 198,
-      "title": "Manipulation8",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation8.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 199,
-      "title": "Manipulation80",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation80.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 200,
-      "title": "Manipulation81",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation81.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 201,
-      "title": "Manipulation82",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation82.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 202,
-      "title": "Manipulation83",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation83.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 203,
-      "title": "Manipulation84",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation84.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 204,
-      "title": "Manipulation85",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation85.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 205,
-      "title": "Manipulation87",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation87.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 206,
-      "title": "Manipulation88",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation88.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 207,
-      "title": "Manipulation9",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation9.jpg",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 208,
-      "title": "Manipulation9",
-      "category": "Image / Art",
-      "subcategory": "Photo Manipulation",
-      "type": "image",
-      "url": "/galery/Manipulation/manipulation9.png",
-      "description": "Karya di kategori Photo Manipulation."
-    },
-    {
-      "id": 209,
-      "title": "Photography 1",
-      "category": "Image / Art",
-      "subcategory": "Photography",
-      "type": "image",
-      "url": "/galery/Photography/photography 1.jpg",
-      "description": "Karya di kategori Photography."
-    },
-    {
-      "id": 210,
-      "title": "Photography",
-      "category": "Image / Art",
-      "subcategory": "Photography",
-      "type": "image",
-      "url": "/galery/Photography/photography.jpg",
-      "description": "Karya di kategori Photography."
-    },
-    {
-      "id": 211,
-      "title": "Photography2",
-      "category": "Image / Art",
-      "subcategory": "Photography",
-      "type": "image",
-      "url": "/galery/Photography/photography2.png",
-      "description": "Karya di kategori Photography."
-    },
-    {
-      "id": 212,
-      "title": "Photography3",
-      "category": "Image / Art",
-      "subcategory": "Photography",
-      "type": "image",
-      "url": "/galery/Photography/photography3.png",
-      "description": "Karya di kategori Photography."
-    },
-    {
-      "id": 213,
-      "title": "Photography4",
-      "category": "Image / Art",
-      "subcategory": "Photography",
-      "type": "image",
-      "url": "/galery/Photography/photography4.png",
-      "description": "Karya di kategori Photography."
-    },
-    {
-      "id": 214,
-      "title": "Photography5",
-      "category": "Image / Art",
-      "subcategory": "Photography",
-      "type": "image",
-      "url": "/galery/Photography/photography5.png",
-      "description": "Karya di kategori Photography."
-    },
-    {
-      "id": 215,
-      "title": "Render3D",
-      "category": "Image / Art",
-      "subcategory": "3D Render",
-      "type": "image",
-      "url": "/galery/Render3D/render3D.png",
-      "description": "Karya di kategori 3D Render."
-    },
-    {
-      "id": 216,
-      "title": "Render3D1",
-      "category": "Image / Art",
-      "subcategory": "3D Render",
-      "type": "image",
-      "url": "/galery/Render3D/render3D1.png",
-      "description": "Karya di kategori 3D Render."
-    },
-    {
-      "id": 217,
-      "title": "1",
-      "category": "Image / Art",
-      "subcategory": "UI/UX Design",
-      "type": "image",
-      "url": "/galery/UI UX/1.jpg",
-      "description": "Karya di kategori UI/UX Design."
-    },
-    {
-      "id": 218,
-      "title": "2",
-      "category": "Image / Art",
-      "subcategory": "UI/UX Design",
-      "type": "image",
-      "url": "/galery/UI UX/2.jpg",
-      "description": "Karya di kategori UI/UX Design."
-    },
-    {
-      "id": 219,
-      "title": "3",
-      "category": "Image / Art",
-      "subcategory": "UI/UX Design",
-      "type": "image",
-      "url": "/galery/UI UX/3.jpg",
-      "description": "Karya di kategori UI/UX Design."
-    },
-    {
-      "id": 220,
-      "title": "4",
-      "category": "Image / Art",
-      "subcategory": "UI/UX Design",
-      "type": "image",
-      "url": "/galery/UI UX/4.jpg",
-      "description": "Karya di kategori UI/UX Design."
-    },
-    {
-      "id": 221,
-      "title": "5",
-      "category": "Image / Art",
-      "subcategory": "UI/UX Design",
-      "type": "image",
-      "url": "/galery/UI UX/5.jpg",
-      "description": "Karya di kategori UI/UX Design."
-    },
-    {
-      "id": 222,
-      "title": "6",
-      "category": "Image / Art",
-      "subcategory": "UI/UX Design",
-      "type": "image",
-      "url": "/galery/UI UX/6.jpg",
-      "description": "Karya di kategori UI/UX Design."
-    },
-    {
-      "id": 223,
-      "title": "7",
-      "category": "Image / Art",
-      "subcategory": "UI/UX Design",
-      "type": "image",
-      "url": "/galery/UI UX/7.png",
-      "description": "Karya di kategori UI/UX Design."
-    },
-    {
-      "id": 224,
       "title": "20240104_201233",
       "category": "Image / Art",
       "subcategory": "Bioswatch",
@@ -2048,200 +88,79 @@
       "description": "Karya di kategori Bioswatch."
     },
     {
-      "id": 225,
-      "title": "BIOSWATCH HOME",
-      "category": "Image / Art",
-      "subcategory": "Bioswatch",
-      "type": "image",
-      "url": "/galery/UI UX/bioswatch/BIOSWATCH HOME.jpg",
-      "description": "Karya di kategori Bioswatch."
-    },
-    {
-      "id": 226,
-      "title": "BIOSWATCH LEADERBOARD",
-      "category": "Image / Art",
-      "subcategory": "Bioswatch",
-      "type": "image",
-      "url": "/galery/UI UX/bioswatch/BIOSWATCH LEADERBOARD.jpg",
-      "description": "Karya di kategori Bioswatch."
-    },
-    {
-      "id": 227,
-      "title": "BIOSWATCH MESSAGE",
-      "category": "Image / Art",
-      "subcategory": "Bioswatch",
-      "type": "image",
-      "url": "/galery/UI UX/bioswatch/BIOSWATCH MESSAGE.jpg",
-      "description": "Karya di kategori Bioswatch."
-    },
-    {
-      "id": 228,
-      "title": "BIOSWATCH SHORT",
-      "category": "Image / Art",
-      "subcategory": "Bioswatch",
-      "type": "image",
-      "url": "/galery/UI UX/bioswatch/BIOSWATCH SHORT.jpg",
-      "description": "Karya di kategori Bioswatch."
-    },
-    {
-      "id": 229,
-      "title": "BIOSWATCH STREAMING",
-      "category": "Image / Art",
-      "subcategory": "Bioswatch",
-      "type": "image",
-      "url": "/galery/UI UX/bioswatch/BIOSWATCH STREAMING.jpg",
-      "description": "Karya di kategori Bioswatch."
-    },
-    {
-      "id": 230,
-      "title": "Home",
+      "id": 7,
+      "title": "Air0",
       "category": "Image / Art",
       "subcategory": "UI/UX Design",
       "type": "image",
-      "url": "/galery/UI UX/home.png",
+      "url": "/galery/UI UX/air0.png",
       "description": "Karya di kategori UI/UX Design."
     },
     {
-      "id": 231,
-      "title": "Uiux ",
+      "id": 8,
+      "title": "Air1",
       "category": "Image / Art",
       "subcategory": "UI/UX Design",
       "type": "image",
-      "url": "/galery/UI UX/uiux .png",
+      "url": "/galery/UI UX/air1.jpg",
       "description": "Karya di kategori UI/UX Design."
     },
     {
-      "id": 232,
-      "title": "Uiux",
+      "id": 9,
+      "title": "Air2",
       "category": "Image / Art",
       "subcategory": "UI/UX Design",
       "type": "image",
-      "url": "/galery/UI UX/uiux.png",
+      "url": "/galery/UI UX/air2.jpg",
       "description": "Karya di kategori UI/UX Design."
     },
     {
-      "id": 233,
-      "title": "Uiux1",
+      "id": 10,
+      "title": "Air3",
       "category": "Image / Art",
       "subcategory": "UI/UX Design",
       "type": "image",
-      "url": "/galery/UI UX/uiux1.jpg",
+      "url": "/galery/UI UX/air3.jpg",
       "description": "Karya di kategori UI/UX Design."
     },
     {
-      "id": 234,
-      "title": "Uiux2",
+      "id": 11,
+      "title": "Air4",
       "category": "Image / Art",
       "subcategory": "UI/UX Design",
       "type": "image",
-      "url": "/galery/UI UX/uiux2.png",
+      "url": "/galery/UI UX/air4.jpg",
       "description": "Karya di kategori UI/UX Design."
     },
     {
-      "id": 235,
-      "title": "Uiux3",
+      "id": 12,
+      "title": "Air5",
       "category": "Image / Art",
       "subcategory": "UI/UX Design",
       "type": "image",
-      "url": "/galery/UI UX/uiux3.png",
+      "url": "/galery/UI UX/air5.jpg",
       "description": "Karya di kategori UI/UX Design."
     },
     {
-      "id": 236,
-      "title": "Uiux4",
+      "id": 13,
+      "title": "Air6",
       "category": "Image / Art",
       "subcategory": "UI/UX Design",
       "type": "image",
-      "url": "/galery/UI UX/uiux4.jpg",
+      "url": "/galery/UI UX/air6.jpg",
       "description": "Karya di kategori UI/UX Design."
     },
     {
-      "id": 237,
-      "title": "Uiux5",
+      "id": 14,
+      "title": "Air7",
       "category": "Image / Art",
       "subcategory": "UI/UX Design",
       "type": "image",
-      "url": "/galery/UI UX/uiux5.png",
+      "url": "/galery/UI UX/air7.png",
       "description": "Karya di kategori UI/UX Design."
     },
     {
-      "id": 238,
-      "title": "Uiux6",
-      "category": "Image / Art",
-      "subcategory": "UI/UX Design",
-      "type": "image",
-      "url": "/galery/UI UX/uiux6.png",
-      "description": "Karya di kategori UI/UX Design."
-    },
-    {
-      "id": 239,
-      "title": "Uiux7",
-      "category": "Image / Art",
-      "subcategory": "UI/UX Design",
-      "type": "image",
-      "url": "/galery/UI UX/uiux7.png",
-      "description": "Karya di kategori UI/UX Design."
-    },
-    {
-      "id": 240,
-      "title": "Uiux8",
-      "category": "Image / Art",
-      "subcategory": "UI/UX Design",
-      "type": "image",
-      "url": "/galery/UI UX/uiux8.png",
-      "description": "Karya di kategori UI/UX Design."
-    },
-    {
-      "id": 241,
-      "title": "Uiux9",
-      "category": "Image / Art",
-      "subcategory": "UI/UX Design",
-      "type": "image",
-      "url": "/galery/UI UX/uiux9.png",
-      "description": "Karya di kategori UI/UX Design."
-    },
-    {
-      "id": 242,
-      "title": "Anime",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/anime.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 243,
-      "title": "Anime10",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/anime10.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 244,
-      "title": "Anime11",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/anime11.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 245,
-      "title": "Anime14",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/anime14.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 246,
+      "id": 15,
       "title": "Anime2",
       "category": "Video",
       "subcategory": "Anime",
@@ -2251,7 +170,7 @@
       "description": "Karya di kategori Anime."
     },
     {
-      "id": 247,
+      "id": 16,
       "title": "Anime3",
       "category": "Video",
       "subcategory": "Anime",
@@ -2261,7 +180,7 @@
       "description": "Karya di kategori Anime."
     },
     {
-      "id": 248,
+      "id": 17,
       "title": "Anime4",
       "category": "Video",
       "subcategory": "Anime",
@@ -2271,7 +190,17 @@
       "description": "Karya di kategori Anime."
     },
     {
-      "id": 249,
+      "id": 18,
+      "title": "Anime5",
+      "category": "Video",
+      "subcategory": "Anime",
+      "type": "video",
+      "url": "/galery/Video/anime/anime5.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Anime."
+    },
+    {
+      "id": 19,
       "title": "Anime6",
       "category": "Video",
       "subcategory": "Anime",
@@ -2281,7 +210,7 @@
       "description": "Karya di kategori Anime."
     },
     {
-      "id": 250,
+      "id": 20,
       "title": "Anime7",
       "category": "Video",
       "subcategory": "Anime",
@@ -2291,7 +220,7 @@
       "description": "Karya di kategori Anime."
     },
     {
-      "id": 251,
+      "id": 21,
       "title": "Anime8",
       "category": "Video",
       "subcategory": "Anime",
@@ -2301,7 +230,7 @@
       "description": "Karya di kategori Anime."
     },
     {
-      "id": 252,
+      "id": 22,
       "title": "Anime9",
       "category": "Video",
       "subcategory": "Anime",
@@ -2311,17 +240,358 @@
       "description": "Karya di kategori Anime."
     },
     {
-      "id": 253,
-      "title": "Movie",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/movie.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
+      "id": 23,
+      "title": "Art",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art.png",
+      "description": "Karya di kategori Traditional Art."
     },
     {
-      "id": 254,
+      "id": 24,
+      "title": "Art1",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art1.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 25,
+      "title": "Art2",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art2.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 26,
+      "title": "Art3",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art3.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 27,
+      "title": "Art4",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art4.jpg",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 28,
+      "title": "Art6",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art6.jpg",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 29,
+      "title": "Art7",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art7.jpg",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 30,
+      "title": "Art8",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art8.jpg",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 31,
+      "title": "Art9",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art9.jpg",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 32,
+      "title": "Art10",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art10.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 33,
+      "title": "Art11",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art11.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 34,
+      "title": "Art12",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art12.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 35,
+      "title": "Art13",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art13.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 36,
+      "title": "Art14",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art14.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 37,
+      "title": "Art15",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art15.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 38,
+      "title": "Art16",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art16.jpg",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 39,
+      "title": "Art17",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art17.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 40,
+      "title": "Art18",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art18.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 41,
+      "title": "Art19",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art19.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 42,
+      "title": "Art20",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art20.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 43,
+      "title": "Art21",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art21.jpg",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 44,
+      "title": "Art22",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art22.jpg",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 45,
+      "title": "Art23",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art23.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 46,
+      "title": "Art24",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art24.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 47,
+      "title": "Art25",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art25.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 48,
+      "title": "Art26",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art26.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 49,
+      "title": "Art27",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art27.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 50,
+      "title": "Art28",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art28.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 51,
+      "title": "Art29",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art29.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 52,
+      "title": "Art30",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art30.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 53,
+      "title": "Art31",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art31.jpg",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 54,
+      "title": "Art32",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art32.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 55,
+      "title": "Art33",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art33.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 56,
+      "title": "Art34",
+      "category": "Image / Art",
+      "subcategory": "Traditional Art",
+      "type": "image",
+      "url": "/galery/Art/art34.png",
+      "description": "Karya di kategori Traditional Art."
+    },
+    {
+      "id": 57,
+      "title": "BIOSWATCH HOME",
+      "category": "Image / Art",
+      "subcategory": "Bioswatch",
+      "type": "image",
+      "url": "/galery/UI UX/bioswatch/BIOSWATCH HOME.jpg",
+      "description": "Karya di kategori Bioswatch."
+    },
+    {
+      "id": 58,
+      "title": "BIOSWATCH LEADERBOARD",
+      "category": "Image / Art",
+      "subcategory": "Bioswatch",
+      "type": "image",
+      "url": "/galery/UI UX/bioswatch/BIOSWATCH LEADERBOARD.jpg",
+      "description": "Karya di kategori Bioswatch."
+    },
+    {
+      "id": 59,
+      "title": "BIOSWATCH MESSAGE",
+      "category": "Image / Art",
+      "subcategory": "Bioswatch",
+      "type": "image",
+      "url": "/galery/UI UX/bioswatch/BIOSWATCH MESSAGE.jpg",
+      "description": "Karya di kategori Bioswatch."
+    },
+    {
+      "id": 60,
+      "title": "BIOSWATCH SHORT",
+      "category": "Image / Art",
+      "subcategory": "Bioswatch",
+      "type": "image",
+      "url": "/galery/UI UX/bioswatch/BIOSWATCH SHORT.jpg",
+      "description": "Karya di kategori Bioswatch."
+    },
+    {
+      "id": 61,
+      "title": "BIOSWATCH STREAMING",
+      "category": "Image / Art",
+      "subcategory": "Bioswatch",
+      "type": "image",
+      "url": "/galery/UI UX/bioswatch/BIOSWATCH STREAMING.jpg",
+      "description": "Karya di kategori Bioswatch."
+    },
+    {
+      "id": 62,
       "title": "Clip",
       "category": "Video",
       "subcategory": "Clip",
@@ -2331,67 +601,7 @@
       "description": "Karya di kategori Clip."
     },
     {
-      "id": 255,
-      "title": "Clip10",
-      "category": "Video",
-      "subcategory": "Clip",
-      "type": "video",
-      "url": "/galery/Video/clip/clip10.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Clip."
-    },
-    {
-      "id": 256,
-      "title": "Clip11",
-      "category": "Video",
-      "subcategory": "Clip",
-      "type": "video",
-      "url": "/galery/Video/clip/clip11.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Clip."
-    },
-    {
-      "id": 257,
-      "title": "Clip12",
-      "category": "Video",
-      "subcategory": "Clip",
-      "type": "video",
-      "url": "/galery/Video/clip/clip12.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Clip."
-    },
-    {
-      "id": 258,
-      "title": "Clip13",
-      "category": "Video",
-      "subcategory": "Clip",
-      "type": "video",
-      "url": "/galery/Video/clip/clip13.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Clip."
-    },
-    {
-      "id": 259,
-      "title": "Clip14",
-      "category": "Video",
-      "subcategory": "Clip",
-      "type": "video",
-      "url": "/galery/Video/clip/clip14.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Clip."
-    },
-    {
-      "id": 260,
-      "title": "Clip16",
-      "category": "Video",
-      "subcategory": "Clip",
-      "type": "video",
-      "url": "/galery/Video/clip/clip16.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Clip."
-    },
-    {
-      "id": 261,
+      "id": 63,
       "title": "Clip2",
       "category": "Video",
       "subcategory": "Clip",
@@ -2401,7 +611,7 @@
       "description": "Karya di kategori Clip."
     },
     {
-      "id": 262,
+      "id": 64,
       "title": "Clip3",
       "category": "Video",
       "subcategory": "Clip",
@@ -2411,7 +621,7 @@
       "description": "Karya di kategori Clip."
     },
     {
-      "id": 263,
+      "id": 65,
       "title": "Clip4",
       "category": "Video",
       "subcategory": "Clip",
@@ -2421,7 +631,7 @@
       "description": "Karya di kategori Clip."
     },
     {
-      "id": 264,
+      "id": 66,
       "title": "Clip5",
       "category": "Video",
       "subcategory": "Clip",
@@ -2431,7 +641,7 @@
       "description": "Karya di kategori Clip."
     },
     {
-      "id": 265,
+      "id": 67,
       "title": "Clip6",
       "category": "Video",
       "subcategory": "Clip",
@@ -2441,7 +651,7 @@
       "description": "Karya di kategori Clip."
     },
     {
-      "id": 266,
+      "id": 68,
       "title": "Clip7",
       "category": "Video",
       "subcategory": "Clip",
@@ -2451,7 +661,7 @@
       "description": "Karya di kategori Clip."
     },
     {
-      "id": 267,
+      "id": 69,
       "title": "Clip8",
       "category": "Video",
       "subcategory": "Clip",
@@ -2461,7 +671,7 @@
       "description": "Karya di kategori Clip."
     },
     {
-      "id": 268,
+      "id": 70,
       "title": "Clip9",
       "category": "Video",
       "subcategory": "Clip",
@@ -2471,7 +681,1662 @@
       "description": "Karya di kategori Clip."
     },
     {
-      "id": 269,
+      "id": 71,
+      "title": "Clip10",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip10.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 72,
+      "title": "Clip11",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip11.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 73,
+      "title": "Clip12",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip12.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 74,
+      "title": "Clip13",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip13.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 75,
+      "title": "Clip14",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip14.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 76,
+      "title": "Clip16",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip16.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 77,
+      "title": "Clip17",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip17.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 78,
+      "title": "Clip18",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip18.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 79,
+      "title": "Comic",
+      "category": "Image / Art",
+      "subcategory": "Comic",
+      "type": "image",
+      "url": "/galery/Komik/comic.png",
+      "description": "Karya di kategori Comic."
+    },
+    {
+      "id": 80,
+      "title": "Design",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design.jpg",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 81,
+      "title": "Design1",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design1.jpg",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 82,
+      "title": "Design2",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design2.jpg",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 83,
+      "title": "Design3",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design3.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 84,
+      "title": "Design4",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design4.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 85,
+      "title": "Design6",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design6.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 86,
+      "title": "Design7",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design7.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 87,
+      "title": "Design8",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design8.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 88,
+      "title": "Design9",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design9.jpg",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 89,
+      "title": "Design10",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design10.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 90,
+      "title": "Design11",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design11.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 91,
+      "title": "Design12",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design12.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 92,
+      "title": "Design13",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design13.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 93,
+      "title": "Design14",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design14.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 94,
+      "title": "Design15",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design15.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 95,
+      "title": "Design16",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design16.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 96,
+      "title": "Design17",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design17.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 97,
+      "title": "Design18",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design18.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 98,
+      "title": "Design20",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design20.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 99,
+      "title": "Design21",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design21.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 100,
+      "title": "Design22",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design22.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 101,
+      "title": "Design23",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design23.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 102,
+      "title": "Design24",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design24.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 103,
+      "title": "Design25",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design25.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 104,
+      "title": "Design26",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design26.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 105,
+      "title": "Design27",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design27.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 106,
+      "title": "Design28",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design28.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 107,
+      "title": "Design32",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design32.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 108,
+      "title": "Design33",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design33.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 109,
+      "title": "Design34",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design34.jpg",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 110,
+      "title": "Design35",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design35.jpg",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 111,
+      "title": "Design36",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design36.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 112,
+      "title": "Design37",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design37.jpg",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 113,
+      "title": "Design38",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design38.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 114,
+      "title": "Design39",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design39.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 115,
+      "title": "Design40",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design40.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 116,
+      "title": "Design41",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design41.jpg",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 117,
+      "title": "Design42",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design42.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 118,
+      "title": "Design43",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design43.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 119,
+      "title": "Design44",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design44.jpg",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 120,
+      "title": "Design45",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design45.jpg",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 121,
+      "title": "Design46",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design46.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 122,
+      "title": "Design47",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design47.jpg",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 123,
+      "title": "Design48",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design48.jpg",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 124,
+      "title": "Design49",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design49.jpg",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 125,
+      "title": "Design50",
+      "category": "Image / Art",
+      "subcategory": "Graphic Design",
+      "type": "image",
+      "url": "/galery/Design/design50.png",
+      "description": "Karya di kategori Graphic Design."
+    },
+    {
+      "id": 126,
+      "title": "Gfx",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 127,
+      "title": "Gfx",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 128,
+      "title": "Gfx1",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx1.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 129,
+      "title": "Gfx2",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx2.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 130,
+      "title": "Gfx3",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx3.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 131,
+      "title": "Gfx4",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx4.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 132,
+      "title": "Gfx5",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx5.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 133,
+      "title": "Gfx6",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx6.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 134,
+      "title": "Gfx7",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx7.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 135,
+      "title": "Gfx8",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx8.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 136,
+      "title": "Gfx9",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx9.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 137,
+      "title": "Gfx10",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx10.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 138,
+      "title": "Gfx11",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx11.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 139,
+      "title": "Gfx12",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx12.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 140,
+      "title": "Gfx13",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx13.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 141,
+      "title": "Gfx14",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx14.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 142,
+      "title": "Gfx15",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx15.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 143,
+      "title": "Gfx17",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx17.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 144,
+      "title": "Gfx18",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx18.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 145,
+      "title": "Gfx18",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx18.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 146,
+      "title": "Gfx19",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx19.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 147,
+      "title": "Gfx20",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx20.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 148,
+      "title": "Gfx21",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx21.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 149,
+      "title": "Gfx22",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx22.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 150,
+      "title": "Gfx23",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx23.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 151,
+      "title": "Gfx24",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx24.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 152,
+      "title": "Gfx25",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx25.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 153,
+      "title": "Gfx26",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx26.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 154,
+      "title": "Gfx27",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx27.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 155,
+      "title": "Gfx28",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx28.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 156,
+      "title": "Gfx29",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx29.jpg",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 157,
+      "title": "Gfx30",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx30.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 158,
+      "title": "Gfx31",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx31.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 159,
+      "title": "Gfx32",
+      "category": "Image / Art",
+      "subcategory": "GFX",
+      "type": "image",
+      "url": "/galery/GFX/gfx32.png",
+      "description": "Karya di kategori GFX."
+    },
+    {
+      "id": 160,
+      "title": "Manipulation",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 161,
+      "title": "Manipulation1",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation1.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 162,
+      "title": "Manipulation2",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation2.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 163,
+      "title": "Manipulation3",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation3.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 164,
+      "title": "Manipulation4",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation4.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 165,
+      "title": "Manipulation5",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation5.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 166,
+      "title": "Manipulation6",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation6.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 167,
+      "title": "Manipulation7",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation7.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 168,
+      "title": "Manipulation8",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation8.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 169,
+      "title": "Manipulation8",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation8.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 170,
+      "title": "Manipulation9",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation9.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 171,
+      "title": "Manipulation9",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation9.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 172,
+      "title": "Manipulation10",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation10.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 173,
+      "title": "Manipulation11",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation11.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 174,
+      "title": "Manipulation12",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation12.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 175,
+      "title": "Manipulation13",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation13.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 176,
+      "title": "Manipulation14",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation14.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 177,
+      "title": "Manipulation15",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation15.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 178,
+      "title": "Manipulation16",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation16.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 179,
+      "title": "Manipulation17",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation17.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 180,
+      "title": "Manipulation18",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation18.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 181,
+      "title": "Manipulation19",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation19.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 182,
+      "title": "Manipulation20",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation20.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 183,
+      "title": "Manipulation21",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation21.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 184,
+      "title": "Manipulation22",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation22.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 185,
+      "title": "Manipulation23",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation23.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 186,
+      "title": "Manipulation24",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation24.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 187,
+      "title": "Manipulation25",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation25.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 188,
+      "title": "Manipulation26",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation26.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 189,
+      "title": "Manipulation27",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation27.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 190,
+      "title": "Manipulation28",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation28.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 191,
+      "title": "Manipulation29",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation29.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 192,
+      "title": "Manipulation30",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation30.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 193,
+      "title": "Manipulation31",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation31.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 194,
+      "title": "Manipulation32",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation32.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 195,
+      "title": "Manipulation33",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation33.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 196,
+      "title": "Manipulation34",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation34.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 197,
+      "title": "Manipulation35",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation35.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 198,
+      "title": "Manipulation36",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation36.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 199,
+      "title": "Manipulation37",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation37.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 200,
+      "title": "Manipulation38",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation38.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 201,
+      "title": "Manipulation39",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation39.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 202,
+      "title": "Manipulation40",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation40.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 203,
+      "title": "Manipulation41",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation41.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 204,
+      "title": "Manipulation42",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation42.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 205,
+      "title": "Manipulation43",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation43.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 206,
+      "title": "Manipulation44",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation44.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 207,
+      "title": "Manipulation45",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation45.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 208,
+      "title": "Manipulation46",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation46.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 209,
+      "title": "Manipulation47",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation47.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 210,
+      "title": "Manipulation48",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation48.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 211,
+      "title": "Manipulation49",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation49.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 212,
+      "title": "Manipulation50",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation50.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 213,
+      "title": "Manipulation51",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation51.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 214,
+      "title": "Manipulation52",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation52.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 215,
+      "title": "Manipulation53",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation53.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 216,
+      "title": "Manipulation54",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation54.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 217,
+      "title": "Manipulation55",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation55.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 218,
+      "title": "Manipulation56",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation56.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 219,
+      "title": "Manipulation57",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation57.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 220,
+      "title": "Manipulation58",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation58.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 221,
+      "title": "Manipulation59",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation59.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 222,
+      "title": "Manipulation61",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation61.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 223,
+      "title": "Manipulation62",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation62.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 224,
+      "title": "Manipulation63",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation63.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 225,
+      "title": "Manipulation64",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation64.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 226,
+      "title": "Manipulation65",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation65.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 227,
+      "title": "Manipulation66",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation66.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 228,
+      "title": "Manipulation66",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation66.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 229,
+      "title": "Manipulation67",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation67.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 230,
+      "title": "Manipulation68",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation68.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 231,
+      "title": "Manipulation69",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation69.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 232,
+      "title": "Manipulation70",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation70.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 233,
+      "title": "Manipulation71",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation71.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 234,
+      "title": "Manipulation72",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation72.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 235,
+      "title": "Manipulation73",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation73.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 236,
+      "title": "Manipulation74",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation74.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 237,
+      "title": "Manipulation75",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation75.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 238,
+      "title": "Manipulation76",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation76.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 239,
+      "title": "Manipulation77",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation77.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 240,
+      "title": "Manipulation78",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation78.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 241,
+      "title": "Manipulation79",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation79.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 242,
+      "title": "Manipulation80",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation80.jpg",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 243,
+      "title": "Manipulation81",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation81.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 244,
+      "title": "Manipulation82",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation82.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 245,
+      "title": "Manipulation83",
+      "category": "Image / Art",
+      "subcategory": "Photo Manipulation",
+      "type": "image",
+      "url": "/galery/Manipulation/manipulation83.png",
+      "description": "Karya di kategori Photo Manipulation."
+    },
+    {
+      "id": 246,
+      "title": "Photography",
+      "category": "Image / Art",
+      "subcategory": "Photography",
+      "type": "image",
+      "url": "/galery/Photography/photography.jpg",
+      "description": "Karya di kategori Photography."
+    },
+    {
+      "id": 247,
+      "title": "Photography 1",
+      "category": "Image / Art",
+      "subcategory": "Photography",
+      "type": "image",
+      "url": "/galery/Photography/photography 1.jpg",
+      "description": "Karya di kategori Photography."
+    },
+    {
+      "id": 248,
+      "title": "Photography2",
+      "category": "Image / Art",
+      "subcategory": "Photography",
+      "type": "image",
+      "url": "/galery/Photography/photography2.png",
+      "description": "Karya di kategori Photography."
+    },
+    {
+      "id": 249,
+      "title": "Photography3",
+      "category": "Image / Art",
+      "subcategory": "Photography",
+      "type": "image",
+      "url": "/galery/Photography/photography3.png",
+      "description": "Karya di kategori Photography."
+    },
+    {
+      "id": 250,
+      "title": "Photography4",
+      "category": "Image / Art",
+      "subcategory": "Photography",
+      "type": "image",
+      "url": "/galery/Photography/photography4.png",
+      "description": "Karya di kategori Photography."
+    },
+    {
+      "id": 251,
+      "title": "Photography5",
+      "category": "Image / Art",
+      "subcategory": "Photography",
+      "type": "image",
+      "url": "/galery/Photography/photography5.png",
+      "description": "Karya di kategori Photography."
+    },
+    {
+      "id": 252,
+      "title": "Render3D",
+      "category": "Image / Art",
+      "subcategory": "3D Render",
+      "type": "image",
+      "url": "/galery/Render3D/render3D.png",
+      "description": "Karya di kategori 3D Render."
+    },
+    {
+      "id": 253,
+      "title": "Render3D1",
+      "category": "Image / Art",
+      "subcategory": "3D Render",
+      "type": "image",
+      "url": "/galery/Render3D/render3D1.png",
+      "description": "Karya di kategori 3D Render."
+    },
+    {
+      "id": 254,
       "title": "Short",
       "category": "Video",
       "subcategory": "Clip",
@@ -2481,17 +2346,106 @@
       "description": "Karya di kategori Clip."
     },
     {
-      "id": 270,
-      "title": "Videographer",
-      "category": "Video",
-      "subcategory": "Videographer",
-      "type": "video",
-      "url": "/galery/Video/videographer/videographer.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Videographer."
+      "id": 255,
+      "title": "Uiux",
+      "category": "Image / Art",
+      "subcategory": "UI/UX Design",
+      "type": "image",
+      "url": "/galery/UI UX/uiux.png",
+      "description": "Karya di kategori UI/UX Design."
     },
     {
-      "id": 271,
+      "id": 256,
+      "title": "Uiux ",
+      "category": "Image / Art",
+      "subcategory": "UI/UX Design",
+      "type": "image",
+      "url": "/galery/UI UX/uiux .png",
+      "description": "Karya di kategori UI/UX Design."
+    },
+    {
+      "id": 257,
+      "title": "Uiux1",
+      "category": "Image / Art",
+      "subcategory": "UI/UX Design",
+      "type": "image",
+      "url": "/galery/UI UX/uiux1.jpg",
+      "description": "Karya di kategori UI/UX Design."
+    },
+    {
+      "id": 258,
+      "title": "Uiux2",
+      "category": "Image / Art",
+      "subcategory": "UI/UX Design",
+      "type": "image",
+      "url": "/galery/UI UX/uiux2.png",
+      "description": "Karya di kategori UI/UX Design."
+    },
+    {
+      "id": 259,
+      "title": "Uiux3",
+      "category": "Image / Art",
+      "subcategory": "UI/UX Design",
+      "type": "image",
+      "url": "/galery/UI UX/uiux3.png",
+      "description": "Karya di kategori UI/UX Design."
+    },
+    {
+      "id": 260,
+      "title": "Uiux4",
+      "category": "Image / Art",
+      "subcategory": "UI/UX Design",
+      "type": "image",
+      "url": "/galery/UI UX/uiux4.jpg",
+      "description": "Karya di kategori UI/UX Design."
+    },
+    {
+      "id": 261,
+      "title": "Uiux5",
+      "category": "Image / Art",
+      "subcategory": "UI/UX Design",
+      "type": "image",
+      "url": "/galery/UI UX/uiux5.png",
+      "description": "Karya di kategori UI/UX Design."
+    },
+    {
+      "id": 262,
+      "title": "Uiux6",
+      "category": "Image / Art",
+      "subcategory": "UI/UX Design",
+      "type": "image",
+      "url": "/galery/UI UX/uiux6.png",
+      "description": "Karya di kategori UI/UX Design."
+    },
+    {
+      "id": 263,
+      "title": "Uiux7",
+      "category": "Image / Art",
+      "subcategory": "UI/UX Design",
+      "type": "image",
+      "url": "/galery/UI UX/uiux7.png",
+      "description": "Karya di kategori UI/UX Design."
+    },
+    {
+      "id": 264,
+      "title": "Uiux8",
+      "category": "Image / Art",
+      "subcategory": "UI/UX Design",
+      "type": "image",
+      "url": "/galery/UI UX/uiux8.png",
+      "description": "Karya di kategori UI/UX Design."
+    },
+    {
+      "id": 265,
+      "title": "Uiux9",
+      "category": "Image / Art",
+      "subcategory": "UI/UX Design",
+      "type": "image",
+      "url": "/galery/UI UX/uiux9.png",
+      "description": "Karya di kategori UI/UX Design."
+    },
+    {
+      "id": 266,
       "title": "Videographer1",
       "category": "Video",
       "subcategory": "Videographer",
@@ -2501,7 +2455,7 @@
       "description": "Karya di kategori Videographer."
     },
     {
-      "id": 272,
+      "id": 267,
       "title": "Videographer2",
       "category": "Video",
       "subcategory": "Videographer",
@@ -2566,6 +2520,11 @@
       "name": "Saweria",
       "url": "https://saweria.co/mhammadnaufal",
       "icon": "Coffee"
+    },
+    {
+      "name": "Cyber Security Project",
+      "url": "https://cyber-security-sherly.netlify.app/",
+      "icon": "Globe"
     }
   ]
 }

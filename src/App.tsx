@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo, useRef } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { Menu, X, ExternalLink, Download, FileText, Play, Image as ImageIcon, Crown, Medal, Star } from 'lucide-react';
+import { Menu, X, ExternalLink, Download, FileText, Play, Image as ImageIcon, Crown, Medal, Star, ChevronUp } from 'lucide-react';
 import portfolioData from './data.json';
 import * as Icons from 'lucide-react';
 
@@ -41,29 +41,99 @@ const useTypewriter = (words: string[], typingSpeed = 100, deletingSpeed = 60, d
 // Security Hook
 const useSecurity = () => {
   useEffect(() => {
-    const handleContextMenu = (e: MouseEvent) => e.preventDefault();
-    const handleDragStart = (e: DragEvent) => e.preventDefault();
+    const preventAction = (e: Event) => {
+      e.preventDefault();
+      e.stopPropagation();
+    };
+
+    const handleContextMenu = (e: MouseEvent) => preventAction(e);
+    const handleDragStart = (e: DragEvent) => preventAction(e);
+    
     const handleKeyDown = (e: KeyboardEvent) => {
+      // Block common inspect / save shortcuts
       if (
         e.key === 'F12' ||
-        (e.ctrlKey && e.shiftKey && e.key === 'I') ||
-        (e.ctrlKey && e.shiftKey && e.key === 'J') ||
-        (e.ctrlKey && e.key === 'U')
+        (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J' || e.key === 'C')) ||
+        (e.ctrlKey && (e.key === 'U' || e.key === 'S' || e.key === 'P' || e.key === 'C')) ||
+        (e.metaKey && e.altKey && (e.key === 'I' || e.key === 'J')) ||
+        (e.metaKey && (e.key === 'U' || e.key === 'S' || e.key === 'P' || e.key === 'C'))
       ) {
-        e.preventDefault();
+        preventAction(e);
+      }
+    };
+
+    const handleCopyCutPaste = (e: ClipboardEvent) => {
+      e.preventDefault();
+      if (e.clipboardData) {
+        e.clipboardData.setData('text/plain', 'Assets protected by NaufalStudio Firewall.');
+      }
+    };
+
+    const handleKeyUp = (e: KeyboardEvent) => {
+      if (e.key === 'PrintScreen') {
+        navigator.clipboard.writeText('Screenshots disabled by NaufalStudio Firewall.').catch(() => {});
       }
     };
 
     document.addEventListener('contextmenu', handleContextMenu);
     document.addEventListener('dragstart', handleDragStart);
-    document.addEventListener('keydown', handleKeyDown);
+    document.addEventListener('keydown', handleKeyDown, { capture: true });
+    document.addEventListener('copy', handleCopyCutPaste);
+    document.addEventListener('cut', handleCopyCutPaste);
+    document.addEventListener('paste', preventAction);
+    window.addEventListener('keyup', handleKeyUp);
 
     return () => {
       document.removeEventListener('contextmenu', handleContextMenu);
       document.removeEventListener('dragstart', handleDragStart);
-      document.removeEventListener('keydown', handleKeyDown);
+      document.removeEventListener('keydown', handleKeyDown, { capture: true });
+      document.removeEventListener('copy', handleCopyCutPaste);
+      document.removeEventListener('cut', handleCopyCutPaste);
+      document.removeEventListener('paste', preventAction);
+      window.removeEventListener('keyup', handleKeyUp);
     };
   }, []);
+};
+
+const ScrollToTopButton = () => {
+  const [isVisible, setIsVisible] = useState(false);
+
+  useEffect(() => {
+    const toggleVisibility = () => {
+      if (window.scrollY > 300) {
+        setIsVisible(true);
+      } else {
+        setIsVisible(false);
+      }
+    };
+
+    window.addEventListener("scroll", toggleVisibility);
+    return () => window.removeEventListener("scroll", toggleVisibility);
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    });
+  };
+
+  return (
+    <AnimatePresence>
+      {isVisible && (
+        <motion.button
+          initial={{ opacity: 0, scale: 0.8 }}
+          animate={{ opacity: 1, scale: 1 }}
+          exit={{ opacity: 0, scale: 0.8 }}
+          onClick={scrollToTop}
+          className="fixed bottom-6 right-6 z-50 p-3 rounded-full bg-primary hover:bg-primary/80 text-white shadow-lg shadow-primary/30 transition-colors focus:outline-none"
+          aria-label="Scroll to top"
+        >
+          <ChevronUp size={24} />
+        </motion.button>
+      )}
+    </AnimatePresence>
+  );
 };
 
 // Components
@@ -277,7 +347,7 @@ const Hero = () => {
           className="inline-flex items-center gap-2 bg-white hover:bg-gray-200 text-black font-medium px-8 py-3 rounded-full transition-colors pointer-events-auto shadow-xl shadow-white/10"
         >
           <Download size={20} />
-          Download CV (PDF)
+          CV SAYA
         </motion.a>
       </div>
     </section>
@@ -291,8 +361,8 @@ const About = () => {
   const creativeTitles = [
     { top: "Visual", bottom: "Artist", sub: "& Designer" },
     { top: "UI/UX", bottom: "Designer", sub: "& Developer" },
-    { top: "Video", bottom: "Editor", sub: "& Animator" },
-    { top: "3D", bottom: "Creator", sub: "& Modeler" },
+    { top: "Video", bottom: "Editor", sub: "& Videographer" },
+    { top: "2D", bottom: "Animator", sub: "& storyboard" },
     { top: "Graphic", bottom: "Designer", sub: "& Illustrator" },
     { top: "Digital", bottom: "Creator", sub: "& Visionary" }
   ];
@@ -682,6 +752,9 @@ const Gallery = () => {
                         </button>
                       </div>
                     )}
+                    <p className="text-center text-xs text-gray-500 mt-4 italic max-w-2xl mx-auto px-4">
+                      * Watermark pada karya adalah perubahan username akun saya terdahulu selalu berganti ganti dikarenakan kena suspend akun.
+                    </p>
                   </>
                 )}
               </motion.div>
@@ -1003,6 +1076,7 @@ export default function App() {
         <Contact />
       </main>
       <Footer />
+      <ScrollToTopButton />
     </div>
   );
 }

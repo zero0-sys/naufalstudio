@@ -84,6 +84,29 @@ processDirectory(galleryDir, '');
 
 console.log(`Found ${galleryItems.length} items in gallery.`);
 
+// Custom sort logic: prioritize files with "Top X" in the title, then natural sort the rest
+const getTopRank = (title) => {
+  const match = title.match(/^Top\s+(\d+)/i);
+  if (match) return parseInt(match[1], 10);
+  return null;
+};
+
+galleryItems.sort((a, b) => {
+  const rankA = getTopRank(a.title);
+  const rankB = getTopRank(b.title);
+
+  if (rankA !== null && rankB !== null) return rankA - rankB;
+  if (rankA !== null) return -1;
+  if (rankB !== null) return 1;
+
+  return a.title.localeCompare(b.title, undefined, { numeric: true, sensitivity: 'base' });
+});
+
+// Re-assign IDs sequentially after sorting
+galleryItems.forEach((item, index) => {
+  item.id = index + 1;
+});
+
 const dataPath = path.join(__dirname, 'src', 'data.json');
 const existingData = require('./src/data.json');
 
