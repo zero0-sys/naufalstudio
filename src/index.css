@@ -33,20 +33,7 @@ body {
   user-drag: none;
 }
 
-/* Glassmorphism */
-.glass {
-  background: rgba(10, 10, 10, 0.6) !important;
-  backdrop-filter: blur(12px) !important;
-  -webkit-backdrop-filter: blur(12px) !important;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-}
-
-.glass-card {
-  background: rgba(255, 255, 255, 0.03) !important;
-  backdrop-filter: blur(10px) !important;
-  -webkit-backdrop-filter: blur(10px) !important;
-  border: 1px solid rgba(255, 255, 255, 0.05);
-}
+/* Glassmorphism utilities have been moved to inline Tailwind CSS utilities in React components */
 
 /* Custom Scrollbar */
 ::-webkit-scrollbar {

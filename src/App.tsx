@@ -143,7 +143,7 @@ const Navbar = () => {
   const links = ['Home', 'About', 'Sertifikat', 'Gallery', 'Contact'];
 
   return (
-    <nav className="fixed top-0 left-0 w-full z-50 glass no-select">
+    <nav className="fixed top-0 left-0 w-full z-50 bg-[#0a0a0a]/60 backdrop-blur-[12px] border-b border-white/5 no-select">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
@@ -184,7 +184,7 @@ const Navbar = () => {
         </div>
       </div>
       {isOpen && (
-        <div className="md:hidden glass border-t border-white/10">
+        <div className="md:hidden bg-[#0a0a0a]/60 backdrop-blur-[12px] border-t border-white/10">
           <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
             {links.map((link) => (
               <a
@@ -470,7 +470,7 @@ const Certificates = () => {
           {duplicatedCertificates.map((cert, idx) => (
             <div 
               key={`${cert.id}-${idx}`} 
-              className="w-[280px] md:w-[380px] shrink-0 glass-card rounded-2xl overflow-hidden group relative border border-white/10 shadow-2xl"
+              className="w-[280px] md:w-[380px] shrink-0 bg-white/5 backdrop-blur-[10px] rounded-2xl overflow-hidden group relative border border-white/10 shadow-2xl"
             >
               <div className="aspect-[4/3] overflow-hidden relative">
                 <img 
@@ -539,7 +539,7 @@ const Gallery = () => {
       exit={{ opacity: 0, scale: 0.9 }}
       transition={{ duration: 0.3 }}
       key={item.id}
-      className="group relative aspect-video rounded-xl overflow-hidden glass-card cursor-pointer no-select isolate"
+      className="group relative aspect-video rounded-xl overflow-hidden bg-white/5 backdrop-blur-[10px] border border-white/5 cursor-pointer no-select isolate"
       onClick={() => setSelectedItem(item)}
     >
       {item.type === 'video' ? (
@@ -660,7 +660,7 @@ const Gallery = () => {
                         layoutId={`gallery-item-${item.id}`}
                         key={item.id}
                         onClick={() => setSelectedItem(item)}
-                        className={`group relative rounded-2xl overflow-hidden glass-card cursor-pointer no-select isolate ${
+                        className={`group relative rounded-2xl overflow-hidden bg-white/5 backdrop-blur-[10px] border border-white/5 cursor-pointer no-select isolate ${
                           isRank1 ? 'col-span-2 row-span-2' : 'col-span-1 row-span-1'
                         }`}
                       >
@@ -794,7 +794,7 @@ const Gallery = () => {
               initial={{ scale: 0.95, y: 20 }}
               animate={{ scale: 1, y: 0 }}
               exit={{ scale: 0.95, y: 20 }}
-              className="relative w-full h-full max-w-[1400px] max-h-[90vh] flex flex-col glass-card rounded-2xl overflow-hidden shadow-2xl"
+              className="relative w-full h-full max-w-[1400px] max-h-[90vh] flex flex-col bg-[#0a0a0a]/80 backdrop-blur-[10px] border border-white/10 rounded-2xl overflow-hidden shadow-2xl"
               onClick={e => e.stopPropagation()}
             >
               {/* Media Container - Takes up maximum available space */}
@@ -917,7 +917,7 @@ ${message}`;
           viewport={{ once: true, margin: "-100px" }}
           transition={{ duration: 0.6, delay: 0.2 }}
           id="contact-form"
-          className="glass-card p-8 rounded-2xl space-y-6"
+          className="bg-white/5 backdrop-blur-[10px] border border-white/10 p-8 rounded-2xl space-y-6"
           onSubmit={(e) => e.preventDefault()}
         >
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
