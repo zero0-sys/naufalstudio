@@ -2312,166 +2312,6 @@
     },
     {
       "id": 253,
-      "title": "Clip",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 254,
-      "title": "Clip10",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip10.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 255,
-      "title": "Clip11",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip11.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 256,
-      "title": "Clip12",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip12.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 257,
-      "title": "Clip13",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip13.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 258,
-      "title": "Clip14",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip14.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 259,
-      "title": "Clip16",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip16.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 260,
-      "title": "Clip2",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip2.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 261,
-      "title": "Clip3",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip3.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 262,
-      "title": "Clip4",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip4.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 263,
-      "title": "Clip5",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip5.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 264,
-      "title": "Clip6",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip6.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 265,
-      "title": "Clip7",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip7.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 266,
-      "title": "Clip8",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip8.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 267,
-      "title": "Clip9",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/clip9.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 268,
-      "title": "Short",
-      "category": "Video",
-      "subcategory": "Anime",
-      "type": "video",
-      "url": "/galery/Video/anime/clip/short.mp4",
-      "thumbnail": "/galery/Art/art.png",
-      "description": "Karya di kategori Anime."
-    },
-    {
-      "id": 269,
       "title": "Movie",
       "category": "Video",
       "subcategory": "Anime",
@@ -2479,6 +2319,166 @@
       "url": "/galery/Video/anime/movie.mp4",
       "thumbnail": "/galery/Art/art.png",
       "description": "Karya di kategori Anime."
+    },
+    {
+      "id": 254,
+      "title": "Clip",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 255,
+      "title": "Clip10",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip10.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 256,
+      "title": "Clip11",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip11.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 257,
+      "title": "Clip12",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip12.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 258,
+      "title": "Clip13",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip13.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 259,
+      "title": "Clip14",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip14.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 260,
+      "title": "Clip16",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip16.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 261,
+      "title": "Clip2",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip2.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 262,
+      "title": "Clip3",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip3.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 263,
+      "title": "Clip4",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip4.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 264,
+      "title": "Clip5",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip5.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 265,
+      "title": "Clip6",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip6.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 266,
+      "title": "Clip7",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip7.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 267,
+      "title": "Clip8",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip8.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 268,
+      "title": "Clip9",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/clip9.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
+    },
+    {
+      "id": 269,
+      "title": "Short",
+      "category": "Video",
+      "subcategory": "Clip",
+      "type": "video",
+      "url": "/galery/Video/clip/short.mp4",
+      "thumbnail": "/galery/Art/art.png",
+      "description": "Karya di kategori Clip."
     },
     {
       "id": 270,

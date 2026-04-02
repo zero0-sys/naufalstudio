@@ -435,12 +435,11 @@ const Gallery = () => {
   const [selectedItem, setSelectedItem] = useState<any>(null);
   const [showAllGallery, setShowAllGallery] = useState(false);
   
-  const categories = ['All', 'Image / Art', 'Video', 'Files'];
+  const categories = ['All', 'Image / Art', 'Video'];
   
   const subcategoriesMap: Record<string, string[]> = {
     'Image / Art': ['All', 'Traditional Art', 'Digital Art', '2D Render', '3D Render', 'Photo Manipulation', 'GFX', 'UI/UX Design', 'Graphic Design', 'Photography'],
-    'Video': ['All', 'Anime', 'Videographer', 'Film'],
-    'Files': ['All', 'Download file']
+    'Video': ['All', 'Anime', 'Clip', 'Movie', 'Short', 'Trailers', 'Videographer', 'Film']
   };
 
   // Handle category change and reset subcategory
