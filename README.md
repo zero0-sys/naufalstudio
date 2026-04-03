@@ -1,4 +1,6 @@
-# ✨ NaufalStudio Portfolio
+<div align="center">
+  <img src="./logo.png" alt="NaufalStudio Portfolio" width="400" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-success.svg" alt="Status">
