@@ -332,10 +332,18 @@ const Hero = () => {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.1 }}
-          className="text-xl md:text-2xl text-gray-400 mb-10"
+          className="text-xl md:text-2xl text-gray-400 mb-6"
         >
           {portfolioData.about.title}
         </motion.h2>
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.5, delay: 0.15 }}
+          className="mb-10 text-gray-400/80 italic text-lg tracking-wide font-medium"
+        >
+          "Seni tidak ternilai harga nya"
+        </motion.div>
         <motion.a 
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
